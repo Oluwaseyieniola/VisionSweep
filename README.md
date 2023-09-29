@@ -21,7 +21,13 @@
  ** All issues and suggestions are appreciated
 
  ## Made use of the YOLO(You only look once) algorithm
+
  
+![Screenshot_1695922724](https://github.com/Oluwaseyieniola/VisionSweep/assets/80404459/a1080955-3de6-4e55-b5f4-207780aea49b)
+![Screenshot_1695922873](https://github.com/Oluwaseyieniola/VisionSweep/assets/80404459/9be9adab-9772-47e0-b842-3b9d0be82304)
+![Screenshot_1695922848](https://github.com/Oluwaseyieniola/VisionSweep/assets/80404459/e486d8f1-cde3-4823-a22b-ffc4c02ba5f6)
+![Screenshot_1695922768](https://github.com/Oluwaseyieniola/VisionSweep/assets/80404459/523a09bb-9a11-415a-8701-38828a2f10e4)
+![Screenshot_1695922750](https://github.com/Oluwaseyieniola/VisionSweep/assets/80404459/9733e449-7e9a-4854-8795-2ce095217124)
 
  
  
